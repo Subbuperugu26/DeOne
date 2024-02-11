@@ -1,2 +1,0 @@
-# DeOne
-DeOne
